@@ -32,10 +32,6 @@ Sou apaixonado por tecnologia e programação, com foco no desenvolvimento back-
 
 ### Estatísticas do GitHub
 ![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoLFranco&show_icons=true&theme=radical&hide=stars,contribs)
-
-### Dias de Contribuição
-[![GitHub Streak](https://streak-stats.demolab.com?user=EnzoLFranco&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
-
 ---
 
 ## 🎯 Objetivos
